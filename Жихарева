@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Жихарева Л.Ф. - Биография</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Georgia', serif;
+        }
+
+        body {
+            background-color: #f9f9f9;
+            color: #222;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .wiki-header {
+            border-bottom: 1px solid #aaa;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: normal;
+            margin-bottom: 10px;
+            color: #000;
+        }
+
+        .content-wrapper {
+            display: flex;
+            gap: 20px;
+        }
+
+        .main-content {
+            flex: 1;
+        }
+
+        .infobox {
+            width: 280px;
+            border: 1px solid #a2a9b1;
+            background-color: #f8f9fa;
+            padding: 15px;
+            font-size: 0.875rem;
+            line-height: 1.4;
+        }
+
+        .infobox-title {
+            text-align: center;
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #aaa;
+        }
+
+        .infobox-row {
+            display: flex;
+            margin-bottom: 8px;
+        }
+
+        .infobox-label {
+            font-weight: bold;
+            width: 40%;
+            vertical-align: top;
+        }
+
+        .infobox-data {
+            width: 60%;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            font-weight: normal;
+            border-bottom: 1px solid #a2a9b1;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            color: #000;
+        }
+
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        .quote {
+            font-style: italic;
+            border-left: 4px solid #eaecf0;
+            padding-left: 15px;
+            margin: 20px 0;
+            color: #54595d;
+        }
+
+        .references {
+            font-size: 0.9rem;
+            color: #54595d;
+            border-top: 1px solid #eaecf0;
+            padding-top: 20px;
+            margin-top: 30px;
+        }
+
+        .references ol {
+            padding-left: 20px;
+        }
+
+        .references li {
+            margin-bottom: 5px;
+        }
+
+        .footer {
+            font-size: 0.8rem;
+            color: #54595d;
+            border-top: 1px solid #eaecf0;
+            padding-top: 20px;
+            margin-top: 40px;
+            text-align: right;
+        }
+
+        @media (max-width: 768px) {
+            .content-wrapper {
+                flex-direction: column;
+            }
+
+            .infobox {
+                width: 100%;
+                order: -1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="wiki-header">
+        <h1>Жихарева, Л. Ф.</h1>
+    </div>
+
+    <div class="content-wrapper">
+        <div class="main-content">
+            <div class="section">
+                <p><b>Жихарева Л.Ф.</b> (род. 5 сентября 1995) — учительница средней школы №6 в Краснодарском крае. Известна своим строгим подходом к преподаванию и требовательной дисциплиной в классе.</p>
+            </div>
+
+            <div class="section">
+                <h2>Биография</h2>
+                <p>Родилась 5 сентября 1995 года в Краснодарском крае. Согласно некоторым источникам, детство Л. Ф. Жихаревой было непростым. После рождения она оказалась в сложной жизненной ситуации, ее выкинули на мусорку и ее подобрали бомжы и хотел пустить на обет но была вовремя изьята и  помещена в детский дом.</p>
+
+                <p>В возрасте 16-17 лет пережила трудный период, связанный с поиском жилья так как ее выкинули родители приемные на улицу потомучто не хотела им чистить пятки зубами. Несмотря на сложные обстоятельства, смогла получить педагогическое образование и реализовать себя в профессии благодоря сосанию пенисов.</p>
+            </div>
+
+            <div class="section">
+                <h2>Карьера</h2>
+                <p>В 2020 году, в возрасте 25 лет, Л. Ф. Жихарева начала преподавательскую деятельность в школе №6 Краснодарского края. За пять лет работы приобрела репутацию строгого и уебкого, и не справедливого педагога.</p>
+
+                <p>Коллеги отмечают её требовательность к ученикам и высокие стандарты в образовательном процессе. По словам директора школы, Л. Ф. Жихарева "демонстрирует преданность профессии и готовность работать с трудными учениками" и лизать мне вагину.</p>
+            </div>
+
+            <div class="section">
+                <h2>Педагогический подход</h2>
+                <p>Методы преподавания Л. Ф. Жихаревой характеризуются как традиционные с акцентом на дисциплину и академическую пидорасину. Она придерживается мнения, что строгий подход способствует лучшему усвоению материала. И еще она обижена на свое детство.</p>
+
+                <div class="quote">
+                    "В образовании нет места снисхождению. Только требовательность к себе и ученикам может дать настоящие результаты и деньги на секс игрушки." — Л. Ф. Жихарева, из интервью школьной газете, 2025 год.
+                </div>
+            </div>
+
+            <div class="references">
+                <h2>Примечания</h2>
+                <ol>
+                    <li>Интервью с директором школы №6, Краснодарский край, 2025</li>
+                    <li>Статья в школьной газете "Перспектива", выпуск сентябрь 2025</li>
+                    <li>Материалы педагогического совета школы №6, 2025</li>
+                </ol>
+            </div>
+
+            <div class="footer">
+                <p>Последнее обновление: 3 сентября 2025 года</p>
+            </div>
+        </div>
+
+        <div class="infobox">
+            <div class="infobox-title">Л. Ф. Жихарева</div>
+
+            <div class="infobox-row">
+                <div class="infobox-label">Дата рождения</div>
+                <div class="infobox-data">5 сентября 1995</div>
+            </div>
+
+            <div class="infobox-row">
+                <div class="infobox-label">Место рождения</div>
+                <div class="infobox-data">Краснодарский край, на помойке.</div>
+            </div>
+
+            <div class="infobox-row">
+                <div class="infobox-label">Гражданство</div>
+                <div class="infobox-data">Россия</div>
+            </div>
+
+            <div class="infobox-row">
+                <div class="infobox-label">Род деятельности</div>
+                <div class="infobox-data">учитель, шлюха.</div>
+            </div>
+
+            <div class="infobox-row">
+                <div class="infobox-label">Годы активности</div>
+                <div class="infobox-data">2020 — н.в.</div>
+            </div>
+
+            <div class="infobox-row">
+                <div class="infobox-label">Место работы</div>
+                <div class="infobox-data">Школа №6, Краснодарский край</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
